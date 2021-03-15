@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private RadioGroup rgGender;
     private CheckBox chkAgreement;
     private ConstraintLayout parent;
-
+    //asd
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
